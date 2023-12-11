@@ -2,7 +2,7 @@
 
 public class Biography {
     public static void main(String[] args) {
-        String name = "Reginah";
+        String name = "Reginah Shicky";
         int age = 24;
         String country = "Kenya";
         String sport = "Car Racing";
