@@ -7,7 +7,7 @@ public class Biography {
         String country = "Kenya";
         String sport = "Car Racing";
         int hours = 5;
-        String game = "BadMinton";
+        String game = "BadMintonn";
         String subject = "Java & C#";
         char grade = 'A';
 
