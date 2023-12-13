@@ -55,7 +55,7 @@ public class BooleanComparisons {
         String secondWord = "hello";
 
         System.out.println("Me: Are the two words the same?");
-        System.out.println("Java: " + (word == secondWord) + "\n");
+        System.out.println("Java : " + (word == secondWord) + "\n");
 
 
         String thirdWord = "hello";
