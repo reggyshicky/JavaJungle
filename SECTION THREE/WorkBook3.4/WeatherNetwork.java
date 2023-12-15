@@ -1,6 +1,6 @@
 public class WeatherNetwork {
     public static void main(String[] args) {
-        int temp = 25;
+        int temp = -1;
         String forecast;
 
         if (temp <= -1) {
