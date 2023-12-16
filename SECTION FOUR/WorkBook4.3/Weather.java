@@ -19,7 +19,7 @@ public class Weather {
 
     /**
      * Name: printTemperatures - prints a temperature in fahrenheit and celcius.
-     * @param fahrenheit (double)
+     * @param fahrenheit (double).
      */
     public static void printTemperatures(double fahrenheit) {
         System.out.println("F: " + fahrenheit);
