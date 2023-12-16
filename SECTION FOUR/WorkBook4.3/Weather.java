@@ -23,7 +23,7 @@ public class Weather {
      */
     public static void printTemperatures(double fahrenheit) {
         System.out.println("F: " + fahrenheit);
-        System.out.println("C: " + fahrenheitToCelsius(fahrenheit) + "\n.");
+        System.out.println("C: " + fahrenheitToCelsius(fahrenheit) + "\n");
         
     }
 }
