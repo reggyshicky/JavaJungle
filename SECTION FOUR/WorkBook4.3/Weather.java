@@ -18,7 +18,7 @@ public class Weather {
     }
 
     /**
-     * Name: printTemperatures - prints a temperature in fahrenheit and celcius
+     * Name: printTemperatures - prints a temperature in fahrenheit and celcius.
      * @param fahrenheit (double)
      */
     public static void printTemperatures(double fahrenheit) {
