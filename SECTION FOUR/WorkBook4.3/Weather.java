@@ -10,7 +10,7 @@ public class Weather {
     }
     /**
      * Function name: fahrenheitToCelsius - converts fahrenheit to celcius.
-     * @param fahrenheit (double)
+     * @param fahrenheit (double).
      * @return celcius (double).
      */
     public static double fahrenheitToCelsius (double fahrenheit) {
