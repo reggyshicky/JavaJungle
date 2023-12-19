@@ -7,5 +7,7 @@ public class CountingTool {
         for (int i = 0; i < num; i++) {
             System.out.print(i + " ");
         }
+
+        scan.close();
     }
 }
