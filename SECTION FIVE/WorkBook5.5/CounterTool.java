@@ -4,7 +4,7 @@ public class CounterTool {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("I hear you like to count by threes");
-        String ans = scan.nextLine();
+        scan.nextLine();
 
         System.out.println("\nOh, Ok...");
         System.out.println("\tPick a number to count by: ");
