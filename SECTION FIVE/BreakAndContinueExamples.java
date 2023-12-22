@@ -15,9 +15,13 @@ public class BreakAndContinueExamples {
         // TODO: Write a loop that finds the smallest number greater than 20 that is divisible by 3 using the 'break' statement
 
         // TODO: Write a loop that prints all even numbers from 1 to 20, skipping odd numbers using the 'continue' statement
-
+        System.out.println("\nEvenNumbers");
         for (int i = 1; i <= 20; i++) {
-            System.out.println("    ");
+            if (i % 2 == 0) {
+                System.out.println(i);
+            } else {
+                continue;
+            }
         }
     }
 }
