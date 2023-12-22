@@ -20,10 +20,10 @@ public class BreakAndContinueExamples {
         System.out.println("\n");
         // TODO: Write a loop that finds the smallest number greater than 20 that is divisible by 3 using the 'break' statement
         //Initialize j to a value greater than 20
-        int j = 21; //You can start with 21, as 21 is the samllest number reater than 20
+        int j = 21; //You can start with 21, as 21 is the samllest number greater than 20
         while (true) {
-            if (j % 3 == 0) {
-                System.out.println("The smallest number greater than 20 that is divisible by 3 is: " + j);
+            if (j % 11 == 0) {
+                System.out.println("The smallest number greater than 20 that is divisible by 11 is: " + j);
                 break;
             }
             j++;
