@@ -54,9 +54,27 @@ public class Blackjack {
             }
         }
         System.out.println("\nDealer's turn");
-        System.out.println("\n The dealer's card are \n " + cardString(dealerCard1)
+        System.out.println("\n The Dealer's cards are \n" + cardString(dealerCard1)
         + "\n and a \n" + cardString(dealerCard2));
-        
+        System.out.println("Dealer's total is " + dealerTotal);
+        while (dealerTotal < 17) {
+            int newCard = drawRandomCard();
+
+            dealerTotal += Math.min(newCard, 10);
+            System.out.println("\n Dealer gets a \n" + cardString(newCard));
+            System.out.println("Dealer's total is " + dealerTotal);
+        }
+
+        if (dealerTotal > 21) {
+            System.out.println("Bust! Delear loses.");
+            System.exit(0);
+        }
+
+        if (total > dealerTotal) {
+            System.out.println("Player wins!");
+        } else {
+            System.out.println("The Delear Wins!");
+        }
         scan.close();
 
     }
