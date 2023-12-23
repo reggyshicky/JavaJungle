@@ -6,6 +6,6 @@ public class IntroToArrays {
         System.out.println(kingdoms[1]);
         System.out.println(kingdoms[2]);
         System.out.println(kingdoms[3]);
-        System.out.println(kingdoms[4]); //out error si raised
+        System.out.println(kingdoms[4]); //out of range error is raised
     }
 }
