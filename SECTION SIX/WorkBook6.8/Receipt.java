@@ -5,7 +5,7 @@ public class Receipt {
         System.out.println("Here's is your receipt");
 
         for (int i = 0; i < 3; i++) {
-                System.out.println(apples[i] + ": $" + price[i]);
+                System.out.println("\t" + apples[i] + ": $" + price[i]);
         }
 
     }
