@@ -3,8 +3,8 @@ public class Grocer {
         String[] aisles = {"apples", "bananas", "candy", "chocolate", "coffee", "tea"};
         System.out.println("Do you sell coffee?");
         for (int i = 0; i < aisles.length; i++) {
-            if (aisles[i] == "coffee") {
-                System.out.println("\n\nWe have that in aisle: 4");
+            if (aisles[i].equals("coffee")) {
+                System.out.println("\nWe have that in aisle: " + i);
                 break; //to terminate the rest of the execution
             }
         }
