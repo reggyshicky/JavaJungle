@@ -40,7 +40,7 @@ public class ArrayLoopExamples {
         int targetValue = 4;
         for (int i = 0; i < data.length; i++) {
             if (data[i] == targetValue) {
-                System.out.println(i);
+                System.out.println( i );
             }
         }
     }
