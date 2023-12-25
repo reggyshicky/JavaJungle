@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 public class PizzaDelivery {
     public static void main(String[] args) {
@@ -20,6 +19,9 @@ public class PizzaDelivery {
         for (int i = 0; i < Toppings.length; i++) {
             System.out.println(i + ". " + Toppings[i]);
         }
+        System.out.println("\nPress anything to confirm your order.");
+        scan.nextLine();
+        System.out.println("Great, a driver is on the way!");
         scan.close();
     }
 }
