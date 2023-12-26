@@ -28,6 +28,14 @@ public class JavaPedia {
         System.out.print("\nWho do you want information on? ");
         String name = scan.nextLine();
         System.out.println();
+         /*
+         * Task 5: Let the user search the database by name.
+         * If there's a match:
+         * print( tab of space Name: <name>)
+         * print( tab of space Date of birth: <date of birth>)
+         * print( tab of space Occupation: <occupation>)
+         * 
+         */
         for (int i = 0; i < database.length; i++) {
             if (database[i][0].equals(name)) {
                 System.out.println("\tName: " + database[i][0]);
@@ -36,14 +44,7 @@ public class JavaPedia {
             }
         }
 
-        /*
-         * Task 5: Let the user search the database by name.
-         * If there's a match:
-         * print( tab of space Name: <name>)
-         * print( tab of space Date of birth: <date of birth>)
-         * print( tab of space Occupation: <occupation>)
-         * 
-         */
+       
 
         scan.close();
     }
