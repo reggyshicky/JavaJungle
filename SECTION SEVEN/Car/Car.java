@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class Car {
     private String make;
     private double price;
@@ -10,7 +11,7 @@ public class Car {
         this.price = price;
         this.year = year;
         this.color = color;
-        this.parts = parts;
+        this.parts = Arrays.copyOf(parts, parts.length);
     }
     //copy constructor, is gonna get invoked when they pass in one parameter upon creating the object
     public Car(Car source) {
