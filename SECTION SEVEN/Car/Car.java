@@ -25,11 +25,11 @@ public class Car {
 
 
     public String[] getParts() {
-        return this.parts;
+        return Arrays.copyOf(this.parts, this.parts.length);
     }
 
     public void setParts(String[] parts) {
-        this.parts = parts;
+        this.parts = Arrays.copyOf(parts, parts.length);
     }
 
     public String getMake() {
@@ -69,5 +69,13 @@ public class Car {
         System.out.println("Please drive your car to the nearest exit\n");
     }
 
-    
+    //more like a def __str__ in python
+    public String toString() {
+        return "Make: " + this.make + ".\n" 
+            +  "Price: " + this.price + ".\n"
+            +  "Year: " + this.year + ".\n"
+            +  "Color: " + this.color + ".\n"
+            +  "Parts: " + Arrays.toString(parts) + ".\n";
+    }
+
 }
