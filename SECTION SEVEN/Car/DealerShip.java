@@ -8,6 +8,20 @@ public class DealerShip {
         } //a deep copy
     }
 
+    public Car getCar(int index) {
+        //Deep copying is creating duplicates of your object to make sure you are protecting the internal state of your class
+        Car copy = new Car(this.cars[index]);
+        return copy;
+    }
+
+    public void setCar(int index, Car newCar) {
+        Car copy = new Car(newCar);
+        this.cars[index] = copy;
+    }
+
+
+
+
     public String toString() {
         String temp = "";
         for (int i = 0; i < this.cars.length; i++) {
