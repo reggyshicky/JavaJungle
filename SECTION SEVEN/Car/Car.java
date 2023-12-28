@@ -19,7 +19,8 @@ public class Car {
         this.price = source.price;
         this.year = source.year;
         this.color = source.color;
-        this.parts = source.parts;
+        this.parts = Arrays.copyOf(source.parts, source.parts.length);
+        //ArraycopyOf creates a brand new array
     }
 
 
