@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Car" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Challenge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Immutable Objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mutable Objects" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/WorkBook7.9" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
