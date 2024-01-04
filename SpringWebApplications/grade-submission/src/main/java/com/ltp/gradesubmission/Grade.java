@@ -11,6 +11,9 @@ public class Grade {
         this.score = score;
     }
 
+    public Grade() {
+        
+    }
     //copy constructor
     public Grade(Grade source) {
         this.name = source.name;
