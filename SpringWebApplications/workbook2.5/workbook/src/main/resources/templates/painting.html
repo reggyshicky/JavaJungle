@@ -5,8 +5,14 @@
     </head>
     <body>
         <div th:switch="${painting}">
-            <img th:case="'mona-lisa'" src="/images/mona-lisa.jpeg" width="300">
-            <img th:case="'starry-night'" src="/images/starry-night.jpeg" width="300">
-        </div>               
+            <div th:case="'mona-lisa'">
+                <h1>Mona Lisa</h1>
+                <img  src="/images/mona-lisa.jpeg" width="300">
+            </div>
+            <div th:case="'starry-night'">
+                <h1>Starry Night</h1>
+                <img  src="/images/starry-night.jpeg" width="300">
+            </div>
+        </div>   
     </body>
 </html>
