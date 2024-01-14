@@ -18,11 +18,11 @@
           <th>Subject</th>
           <th>Score</th>
         </tr>
-        <!--Selection expression-->
-        <tr th:object="${grade}">
-          <td th:text="*{name}"></td>
-          <td th:text="*{subject}"></td>
-          <td th:text="*{score}"></td>
+        <!--variable expression thymeleaf each-->
+        <tr th:each="grade: ${grades}">
+          <td th:text="${grade.name}"></td>
+          <td th:text="${grade.subject}"></td>
+          <td th:text="${grade.score}"></td>
         </tr>
       </table>
     </div>
@@ -30,10 +30,22 @@
   </body>
 </html>
 
-<!--&lt;!&ndash; variable expression-->
+
+
+
+
+<!-- &lt;!&ndash; variable expression-->
 <!--<tr>  -->
 <!--<td th:text="${grade.name}"></td>-->
 <!--<td th:text="${grade.subject}"></td>-->
 <!--<td th:text="${grade.score}"></td>-->
 <!--</tr>-->
-<!--&ndash;&gt;-->
+<!--&ndash;&gt; -->
+
+
+    <!--Selection expression-->
+    <!-- <tr th:object="${grade}">
+      <td th:text="*{name}"></td>
+      <td th:text="*{subject}"></td>
+      <td th:text="*{score}"></td>
+    </tr> -->
