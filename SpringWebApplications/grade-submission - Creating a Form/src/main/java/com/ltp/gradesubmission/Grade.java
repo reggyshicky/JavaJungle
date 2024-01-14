@@ -12,7 +12,7 @@ public class Grade {
     }
 
     public Grade() {
-        
+        System.out.println();
     }
     //copy constructor
     public Grade(Grade source) {
