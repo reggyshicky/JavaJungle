@@ -1,0 +1,51 @@
+<!DOCTYPE>
+<html>
+  <head> 
+    <title>Grades</title>
+    <link th:href="@{/grades-stylesheet.css}" rel="stylesheet">
+  </head>
+  <body>
+    <div class="topnav">
+      <a>Form</a>
+      <a>Grades</a>
+    </div>
+
+    <div class= "container">
+      <h2 > Grades </h2>
+      <table id="table"> 
+        <tr>
+          <th>Student</th>
+          <th>Subject</th>
+          <th>Score</th>
+        </tr>
+        <!--variable expression thymeleaf each-->
+        <tr th:each="grade: ${grades}">
+          <td th:text="${grade.name}"></td>
+          <td th:text="${grade.subject}"></td>
+          <td th:text="${grade.score}"></td>
+        </tr>
+      </table>
+    </div>
+    
+  </body>
+</html>
+
+
+
+
+
+<!-- &lt;!&ndash; variable expression-->
+<!--<tr>  -->
+<!--<td th:text="${grade.name}"></td>-->
+<!--<td th:text="${grade.subject}"></td>-->
+<!--<td th:text="${grade.score}"></td>-->
+<!--</tr>-->
+<!--&ndash;&gt; -->
+
+
+    <!--Selection expression-->
+    <!-- <tr th:object="${grade}">
+      <td th:text="*{name}"></td>
+      <td th:text="*{subject}"></td>
+      <td th:text="*{score}"></td>
+    </tr> -->
