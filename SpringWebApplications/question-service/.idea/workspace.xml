@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9c73c88-3c2c-4346-8234-4af967a89681" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SECTION TWO/helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SECTION TWO/helloworld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/java/com/ltp/globalsuperstore/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/java/com/ltp/globalsuperstore/GlobalSuperstoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/java/com/ltp/globalsuperstore/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/java/com/ltp/globalsuperstore/SimpleDateFomart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/java/com/ltp/globalsuperstore/SuperStoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/static/form-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/static/inventory-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/templates/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/templates/inventory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/test/java/com/ltp/globalsuperstore/GlobalSuperstoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/Model/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/service/QuizService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/main/java/com/microservices/ms/MsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/main/java/com/microservices/ms/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/test/java/com/microservices/ms/MsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/java/com/ltp/gradesubmission/GradeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/java/com/ltp/gradesubmission/GradeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/grades.html" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/grades.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello-spring-intellij/hello-spring-intellij/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-intellij/hello-spring-intellij/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workbook2.2/workbook/src/main/resources/templates/shows.html" beforeDir="false" afterPath="$PROJECT_DIR$/../workbook2.2/workbook/src/main/resources/templates/shows.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/question-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2boL8FZ3gbwTR1HqHMLB8QpbPZD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/OneDrive/Desktop/JavaJungle/SpringWebApplications/question-service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9c73c88-3c2c-4346-8234-4af967a89681" name="Changes" comment="" />
+      <created>1706876324386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706876324386</updated>
+      <workItem from="1706876325647" duration="624000" />
+      <workItem from="1706877692175" duration="30000" />
+      <workItem from="1706877751745" duration="32000" />
+      <workItem from="1706877805453" duration="57000" />
+      <workItem from="1706878065108" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
