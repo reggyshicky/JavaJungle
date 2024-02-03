@@ -1,12 +1,18 @@
-package com.microservices.QuizApp.controller;
+package com.shicky.questionservice.controller;
 
-import com.microservices.QuizApp.Model.Question;
-import com.microservices.QuizApp.service.QuestionService;
+
+import com.shicky.questionservice.Model.Question;
+import com.shicky.questionservice.Model.QuestionWrapper;
+import com.shicky.questionservice.Model.Response;
+import com.shicky.questionservice.service.QuestionService;
+
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.core.env.Environment;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+
 
 @RestController
 @RequestMapping("question")

@@ -1,7 +1,7 @@
-package com.microservices.QuizApp.service;
+package com.shicky.questionservice.service;
 
-import com.microservices.QuizApp.Model.Question;
-import com.microservices.QuizApp.dao.QuestionDao;
+import com.shicky.questionservice.Model.Question;
+import com.shicky.questionservice.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

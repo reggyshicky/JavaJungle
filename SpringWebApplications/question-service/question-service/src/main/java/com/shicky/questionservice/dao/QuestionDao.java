@@ -1,5 +1,5 @@
-package com.microservices.QuizApp.dao;
-import com.microservices.QuizApp.Model.Question;
+package com.shicky.questionservice.dao;
+import com.shicky.questionservice.Model.Question;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

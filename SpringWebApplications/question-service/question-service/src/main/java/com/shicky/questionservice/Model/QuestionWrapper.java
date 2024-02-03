@@ -1,4 +1,4 @@
-package com.microservices.QuizApp.Model;
+package com.shicky.questionservice.Model;
 
 import lombok.Data;
 

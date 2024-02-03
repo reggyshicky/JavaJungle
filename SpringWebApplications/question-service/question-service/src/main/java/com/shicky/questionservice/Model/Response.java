@@ -1,4 +1,4 @@
-package com.microservices.QuizApp.Model;
+package com.shicky.questionservice.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

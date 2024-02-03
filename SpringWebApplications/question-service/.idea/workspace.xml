@@ -24,10 +24,25 @@
       <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/templates/form.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/main/resources/templates/inventory.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Global-Superstore/global-superstore/src/test/java/com/ltp/globalsuperstore/GlobalSuperstoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/Model/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/Model/QuestionWrapper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/Model/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/Model/Response.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/QuizAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/controller/QuestionController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/dao/QuestionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/dao/QuizDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/service/QuestionService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/java/com/microservices/QuizApp/service/QuizService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Microservices/QuizApp/QuizApp/src/test/java/com/microservices/QuizApp/QuizAppApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
@@ -38,10 +53,19 @@
       <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/main/java/com/microservices/ms/QuestionController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/main/resources/application.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Microservices/ms/ms/src/test/java/com/microservices/ms/MsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuizApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuizApp/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/java/com/ltp/gradesubmission/GradeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/java/com/ltp/gradesubmission/GradeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/grades.html" beforeDir="false" afterPath="$PROJECT_DIR$/../grade-submission - Creating a Form/src/main/resources/templates/grades.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hello-spring-intellij/hello-spring-intellij/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../hello-spring-intellij/hello-spring-intellij/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/Model/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/dao/QuestionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/dao/QuestionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/dao/QuizDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question-service/src/main/java/com/shicky/questionservice/service/QuizService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../workbook2.2/workbook/src/main/resources/templates/shows.html" beforeDir="false" afterPath="$PROJECT_DIR$/../workbook2.2/workbook/src/main/resources/templates/shows.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +100,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2boL8FZ3gbwTR1HqHMLB8QpbPZD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,15 +112,31 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/OneDrive/Desktop/JavaJungle/SpringWebApplications/question-service",
+    "last_opened_file_path": "D:/OneDrive/Desktop/JavaJungle/SpringWebApplications/QuizApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Desktop\JavaJungle\SpringWebApplications\question-service\question-service\src\main\java\com\shicky\questionservice" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-3183f394aec4-aba903c2" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -109,10 +150,19 @@
       <workItem from="1706877751745" duration="32000" />
       <workItem from="1706877805453" duration="57000" />
       <workItem from="1706878065108" duration="93000" />
+      <workItem from="1706878262976" duration="2948000" />
+      <workItem from="1706922690398" duration="615000" />
+      <workItem from="1706923318541" duration="588000" />
+      <workItem from="1706924145978" duration="209000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
   </component>
 </project>
