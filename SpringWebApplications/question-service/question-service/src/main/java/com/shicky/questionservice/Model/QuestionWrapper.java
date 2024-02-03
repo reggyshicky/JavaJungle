@@ -1,8 +1,10 @@
 package com.shicky.questionservice.Model;
 
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Data
+@NoArgsConstructor
 public class QuestionWrapper {
     private Integer id;
     private String option1;
