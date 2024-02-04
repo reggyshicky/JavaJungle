@@ -74,6 +74,7 @@ public class QuestionService {
             QuestionWrapper wrapper = new QuestionWrapper();
             wrapper.setId(question.getId());
             wrapper.setQuestionTitle(question.getQuestionTitle());
+            wrapper.setOption1(question.getOption1());
             wrapper.setOption2(question.getOption2());
             wrapper.setOption3(question.getOption3());
             wrapper.setOption4(question.getOption4());
@@ -81,9 +82,6 @@ public class QuestionService {
 
         }
         return new ResponseEntity<>(wrappers, HttpStatus.OK);
-
-
-
     }
 
     public ResponseEntity<Integer> getScore(List<Response> responses) {
