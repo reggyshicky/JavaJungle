@@ -1,7 +1,6 @@
 package com.microservices.QuizApp.service;
 
 import com.microservices.QuizApp.Model.Question;
-import com.microservices.QuizApp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

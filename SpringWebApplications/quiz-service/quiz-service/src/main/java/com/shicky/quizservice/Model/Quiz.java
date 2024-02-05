@@ -1,4 +1,4 @@
-package com.microservices.QuizApp.Model;
+package com.shicky.quizservice.Model;
 
 import jakarta.persistence.*;
 import lombok.Data;
