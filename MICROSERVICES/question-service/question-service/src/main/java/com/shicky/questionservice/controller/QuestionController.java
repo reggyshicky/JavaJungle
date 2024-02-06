@@ -19,6 +19,9 @@ import java.util.List;
 public class QuestionController {
     @Autowired
     QuestionService questionService;
+
+    @Autowired
+    Environment environment;
     @GetMapping("allQuestions")
     public ResponseEntity<List<Question>> getAllQuestions() {
         return questionService.getAllQuestions();
@@ -55,6 +58,7 @@ public class QuestionController {
 
     @PostMapping("getQuestions")
     public ResponseEntity<List<QuestionWrapper>> getQuestionFromId(@RequestBody List<Integer> questionIds) {
+        System.out.println(environment.getProperty("local.server.port"));
         return questionService.getQuestionsFromId(questionIds);
     }
 
