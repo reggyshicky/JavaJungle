@@ -7,7 +7,6 @@ public class ProgrammingAssignment1 {
         Scanner input = new Scanner(System.in);
         int numbers[] = new int[]{1,2,3,4,5};
 
-                int numbers[] = new int[]{1,2,3,4,5};
 
 
 
