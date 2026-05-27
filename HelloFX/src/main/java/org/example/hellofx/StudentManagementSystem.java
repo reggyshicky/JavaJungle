@@ -13,14 +13,36 @@ import javafx.scene.text.*;
 import javafx.stage.*;
 import java.util.*;
 
+/**
+ * StudentManagementSystem.java
+ * ============================================================
+ * A JavaFX GUI application for managing students, courses,
+ * enrollments, and grades.
+ *
+ * Author  : Ginah
+ * Version : 1.0
+ *
+ * HOW TO RUN (IntelliJ + Maven):
+ *  1. Add JavaFX SDK lib folder as a project library, OR use
+ *     the javafx-maven-plugin with JDK 17+.
+ *  2. Run StudentManagementSystem (main class).
+ * ============================================================
+ */
 public class StudentManagementSystem extends Application {
+
+    // ─────────────────────────────────────────────────────────
     //  DATA MODELS
-    //Represents a student with an ID, name, email, and course year.
-    static class Student {
+    // ─────────────────────────────────────────────────────────
+
+    /**
+     * Represents a student with an ID, name, email, and course year.
+     */
+    public static class Student {
         private final StringProperty studentId;
         private final StringProperty name;
         private final StringProperty email;
         private final StringProperty year;
+
         public Student(String studentId, String name, String email, String year) {
             this.studentId = new SimpleStringProperty(studentId);
             this.name      = new SimpleStringProperty(name);
@@ -36,13 +58,13 @@ public class StudentManagementSystem extends Application {
         public void   setName(String v)          { name.set(v); }
         public StringProperty nameProperty()     { return name; }
 
-        public String getEmail()                { return email.get(); }
-        public void   setEmail(String v)        { email.set(v); }
-        public StringProperty emailProperty()   { return email; }
+        public String getEmail()                 { return email.get(); }
+        public void   setEmail(String v)         { email.set(v); }
+        public StringProperty emailProperty()    { return email; }
 
-        public String getYear()                 { return year.get(); }
-        public void   setYear(String v)         { year.set(v); }
-        public StringProperty yearProperty()    { return year; }
+        public String getYear()                  { return year.get(); }
+        public void   setYear(String v)          { year.set(v); }
+        public StringProperty yearProperty()     { return year; }
 
         @Override public String toString()       { return getName() + " (" + getStudentId() + ")"; }
     }
@@ -574,6 +596,20 @@ public class StudentManagementSystem extends Application {
             enrollBox.setPrefWidth(280);
             gradeBox.setPrefWidth(100);
 
+            // Show course title (not Enrollment.toString()) in the dropdown
+            enrollBox.setCellFactory(lv -> new ListCell<>() {
+                @Override protected void updateItem(Enrollment item, boolean empty) {
+                    super.updateItem(item, empty);
+                    setText(empty || item == null ? null : item.getCourse().getTitle());
+                }
+            });
+            enrollBox.setButtonCell(new ListCell<>() {
+                @Override protected void updateItem(Enrollment item, boolean empty) {
+                    super.updateItem(item, empty);
+                    setText(empty || item == null ? null : item.getCourse().getTitle());
+                }
+            });
+
             // When student changes, show their enrolled courses
             studentBox.setOnAction(e -> {
                 Student s = studentBox.getValue();
@@ -581,7 +617,7 @@ public class StudentManagementSystem extends Application {
                 List<Enrollment> es = store.enrollmentsFor(s);
                 enrollBox.setItems(FXCollections.observableArrayList(es));
                 enrollBox.setValue(null);
-                table.setItems(FXCollections.observableArrayList(es));
+                table.setItems(store.enrollments);
                 enrollBox.setPromptText(es.isEmpty() ? "Not enrolled in any course" : "Select course...");
             });
 
