@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/painting/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/work-book/work-book/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.2/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.3/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.4/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.5/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.6/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.7/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.8/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.9/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/conditionals/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.10/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/workbook2.11/workbook/pom.xml" />
+        <option value="$PROJECT_DIR$/first-project/pom.xml" />
+        <option value="$PROJECT_DIR$/utility-methods/pom.xml" />
+        <option value="$PROJECT_DIR$/grade-submission/pom.xml" />
+        <option value="$PROJECT_DIR$/field-validation-project/pom.xml" />
+        <option value="$PROJECT_DIR$/grade-submission - Creating a Form/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

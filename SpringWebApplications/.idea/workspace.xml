@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf476ad3-fd53-4429-99ef-39b6e073fe55" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../HelloFX/src/main/java/org/example/hellofx/StudentManagementSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloFX/src/main/java/org/example/hellofx/StudentManagementSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java FundaMentals/src/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java FundaMentals/src/PrimitiveDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/src/main/java/org/example/myjavafxapp/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/src/main/java/org/example/myjavafxapp/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyJavaFXApp/src/main/resources/org/example/myjavafxapp/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packanges/EcommerceImplementingPackages/src/main/java/com/ecommerce/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Packanges/EcommerceImplementingPackages/src/main/java/com/ecommerce/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList/1. LinkedList and ArrayList/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList/1. LinkedList and ArrayList/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayList/1. LinkedList and ArrayList/numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../second/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../second/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="3GzYh2A1HErieXBgFTe5ZVWjVhf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/JavaJungle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ConditionalsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="conditionals" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.conditionals.ConditionalsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldValidationProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="field-validation-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fvp.fieldvalidationproject.FieldValidationProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="first-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myfirstproject.firstproject.FirstProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeSubmissionApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="grade-submission (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.gradesubmission.GradeSubmissionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeSubmissionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="grade-submission" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.gradesubmission.GradeSubmissionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="hello-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.hellospring.HelloSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="painting" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.painting.PaintingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilityMethodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="utility-methods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.utilitymethods.UtilityMethodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkBookApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="work-book" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.workbook21.workbook.WorkBookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (8)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (9)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (10)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (2)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (3)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (4)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (5)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (6)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook (7)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkbookApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="workbook" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltp.workbook.WorkbookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf476ad3-fd53-4429-99ef-39b6e073fe55" name="Changes" comment="" />
+      <created>1784975980003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784975980003</updated>
+      <workItem from="1784975981144" duration="686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
